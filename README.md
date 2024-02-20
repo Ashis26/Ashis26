@@ -12,9 +12,8 @@
   
 *Talking about Personal Stuffs:*
 
-- 💼 I’m pursuing a Bachelor's degree in Computer Science at YMCA 
-- 👨🏽‍💻 I’m currently working on enhancing my Skills by solving problems in hackerrank;
-- 🌐 I am also Interested in making interactive web pages i.e. frontend;
+- 👨🏽‍💻 I’m currently working as Software Engineer at Samsung R&D Institute;
+- 💼 Pursued a Bachelor's degree in Computer Science at YMCA; 
 - 💬 Ask me about anything, I am always happy to help;
 - 📫 Please email via aschoudhary@gmail.com to reach me.
 - ✔️ You can follow me on [LinkedIn](linkedin.com/in/ashish-choudhary-7b6029166). 
